@@ -1,0 +1,27 @@
+{
+  "name": "kaoko",
+  "version": "0.0.1",
+  "description": "Resident Bot of Jun's Cat Colony",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabby-jun/kaoko.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js"
+  ],
+  "author": "Tham Wang Jun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabby-jun/kaoko/issues"
+  },
+  "homepage": "https://github.com/tabby-jun/kaoko#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
