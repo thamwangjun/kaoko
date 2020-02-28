@@ -5,8 +5,9 @@ var state = require('../state')
 var Listener = require('../types/Listener')
 
 function listenRespondImage (message, map) {
-  if (message.content in imageRespondConfig) {
-    let url = imageRespondConfig[message.content]
+  var messageContentLowerCase = message.content.toLowerCase()
+  if (messageContentLowerCase in imageRespondConfig) {
+    let url = imageRespondConfig[messageContentLowerCase]
     let embed = createGifEmbed(url, message)
     utility.channelSendEmbed(message, embed)
     message.delete()
@@ -18,8 +19,8 @@ function listenRespondImage (message, map) {
 
   var animatedEmojiMap = state.get('animatedEmojiMap')
 
-  if (message.content in animatedEmojiMap) {
-    let url = animatedEmojiMap[message.content]
+  if (messageContentLowerCase in animatedEmojiMap) {
+    let url = animatedEmojiMap[messageContentLowerCase]
     let embed = createGifEmbed(url, message)
     utility.channelSendEmbed(message, embed)
     message.delete()

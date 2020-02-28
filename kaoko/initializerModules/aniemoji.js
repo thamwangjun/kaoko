@@ -8,7 +8,7 @@ function initialize (client) {
   animatedEmojiMap.filter((emoji) => {
     return emoji.animated === true
   }).tap((emoji) => {
-    nameUrlEmojiMap[emoji.name] = emoji.url
+    nameUrlEmojiMap[emoji.name.toLowerCase()] = emoji.url
   })
   state.store('animatedEmojiMap', nameUrlEmojiMap)
 }
