@@ -5,11 +5,11 @@ function allListenersReceive (message, map) {
   }
 }
 
-var listenerModule = {
+var listenerModules = {
   listeners: [
     require('./imageRespond')
   ],
   allListenersReceive: allListenersReceive
 }
 
-module.exports = listenerModule
+module.exports = listenerModules

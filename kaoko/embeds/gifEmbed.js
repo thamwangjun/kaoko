@@ -1,4 +1,4 @@
-var config = require('../../config.json')
+var config = require('../../kaokoConfigs/config.json')
 var Discord = require('discord.js')
 
 function createGifEmbed (url, messageObj) {

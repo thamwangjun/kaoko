@@ -1,7 +1,8 @@
 var utility = require('../utilityModule')
 var createGifEmbed = require('../embeds/gifEmbed').createGifEmbed
-var imageRespondConfig = require('../../imageRespondConfig.json')
+var imageRespondConfig = require('../../kaokoConfigs/imageRespondConfig.json')
 var state = require('../state')
+var Listener = require('../types/Listener')
 
 function listenRespondImage (message, map) {
   if (message.content in imageRespondConfig) {
@@ -25,6 +26,6 @@ function listenRespondImage (message, map) {
   }
 }
 
-module.exports = {
+module.exports = Listener({
   receive: listenRespondImage
-}
+})

@@ -5,11 +5,11 @@ function initializeAll (client) {
   }
 }
 
-var initializerModule = {
+var initializerModules = {
   initializers: [
     require('./aniemoji')
   ],
   initializeAll: initializeAll
 }
 
-module.exports = initializerModule
+module.exports = initializerModules

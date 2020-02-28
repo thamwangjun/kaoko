@@ -1,4 +1,5 @@
 var state = require('../state')
+var Initializer = require('../types/Initializer')
 
 function initialize (client) {
   var guildId = process.env.BOT_SERVER_ID
@@ -12,6 +13,6 @@ function initialize (client) {
   state.store('animatedEmojiMap', nameUrlEmojiMap)
 }
 
-module.exports = {
+module.exports = Initializer({
   initialize: initialize
-}
+})
