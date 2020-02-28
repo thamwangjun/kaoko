@@ -4,7 +4,10 @@
   "description": "Resident Bot of Jun's Cat Colony",
   "main": "kaoko/main.js",
   "scripts": {
-    "startBot":"node kaoko/main.js"
+    "startBot": "node kaoko/main.js",
+    "checkStyle": "eslint kaoko/**",
+    "styleFix": "eslint --fix kaoko/**",
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -23,9 +26,17 @@
   "homepage": "https://github.com/tabby-jun/kaoko#readme",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "superstruct": "^0.8.3"
   },
   "devDependencies": {
-    "standard": "^14.3.1"
+    "ava": "^3.4.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-standard": "^1.0.2"
   }
 }
