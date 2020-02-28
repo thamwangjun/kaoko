@@ -1,7 +1,9 @@
+var Initializer = require('../types/Initializer')
 
 function initializeAll (client) {
   for (let initializer of this.initializers) {
-    initializer.initialize(client)
+    let currentInitializer = Initializer(initializer)
+    currentInitializer.initialize(client)
   }
 }
 

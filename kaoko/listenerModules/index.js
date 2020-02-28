@@ -1,7 +1,9 @@
+var Listener = require('../types/Listener')
 
 function allListenersReceive (message, map) {
   for (let listener of this.listeners) {
-    listener.receive(message, map)
+    let currentInitializer = Listener(listener)
+    currentInitializer.receive(message, map)
   }
 }
 
