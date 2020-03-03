@@ -2,7 +2,7 @@ var utility = require('../utilityModule')
 var createGifEmbed = require('../embeds/gifEmbed').createGifEmbed
 var imageRespondConfig = require('../../kaokoConfigs/imageRespondConfig.json')
 var state = require('../state')
-var Listener = require('../types/Listener')
+var Listener = require('./Listener')
 
 function listenRespondImage (message, map) {
   var messageContentLowerCase = message.content.toLowerCase()

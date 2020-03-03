@@ -1,4 +1,4 @@
-var Listener = require('../types/Listener')
+var Listener = require('./Listener')
 
 function allListenersReceive (message, map) {
   for (let listener of this.listeners) {

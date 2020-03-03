@@ -1,5 +1,5 @@
 var state = require('../state')
-var Initializer = require('../types/Initializer')
+var Initializer = require('./Initializer')
 
 function initialize (client) {
   var guildId = process.env.BOT_SERVER_ID
