@@ -1,4 +1,7 @@
+![kaoko](docs/static/kaoko-px.png)
+
 # kaoko
+
 Resident Bot of Jun's Cat Colony
 
 ## Install
