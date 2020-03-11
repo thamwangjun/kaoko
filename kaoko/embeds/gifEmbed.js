@@ -14,6 +14,4 @@ function createGifEmbed (url, messageObj) {
   })
 }
 
-module.exports = {
-  createGifEmbed: createGifEmbed
-}
+exports.createGifEmbed = createGifEmbed

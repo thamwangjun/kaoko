@@ -1,7 +1,10 @@
-var state = require('../state')
-var Initializer = require('./Initializer')
+var Initializer = require('./InitializerModule')
+var AniemojiInitializerDependencies = require('../dependencyTypes/aniemojiInitializer')
 
-function initialize (client) {
+function initialize (client, dependencies) {
+  var aniemojiInitializerDependencies = AniemojiInitializerDependencies(dependencies.aniemojiInitializerDependencies)
+  var state = aniemojiInitializerDependencies.state
+
   var guildId = process.env.BOT_SERVER_ID
   var animatedEmojiMap = client.guilds.get(guildId).emojis.clone()
   var nameUrlEmojiMap = {}

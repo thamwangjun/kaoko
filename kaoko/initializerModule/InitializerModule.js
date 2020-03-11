@@ -1,7 +1,7 @@
 var { struct } = require('superstruct')
 
-var Initializer = struct({
+var InitializerModule = struct({
   initialize: 'function'
 })
 
-module.exports = Initializer
+module.exports = InitializerModule
