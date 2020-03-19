@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/tabby-jun/kaoko#readme",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^12.0.2",
     "dotenv": "^8.2.0",
     "superstruct": "^0.8.3"
   },
