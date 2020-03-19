@@ -5,7 +5,7 @@ function createGifEmbed (url, messageObj) {
   var authorName = messageObj.member ? messageObj.member.nickname : messageObj.author.username
 
   return new Discord.RichEmbed({
-    color: config.color,
+    color: messageObj.member.displayColor,
     image: {
       url: url
     },
