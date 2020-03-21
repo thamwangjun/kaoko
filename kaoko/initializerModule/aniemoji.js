@@ -6,13 +6,14 @@ function initialize (client, dependencies) {
   var state = aniemojiInitializerDependencies.state
 
   var guildId = process.env.BOT_SERVER_ID
-  var animatedEmojiMap = client.guilds.get(guildId).emojis.clone()
+  var animatedEmojiMap = client.guilds.resolve(guildId).emojis.cache.clone()
   var nameUrlEmojiMap = {}
   animatedEmojiMap.filter((emoji) => {
     return emoji.animated === true
-  }).tap((emoji) => {
-    nameUrlEmojiMap[emoji.name.toLowerCase()] = emoji.url
-  })
+  }).array()
+    .forEach((emoji) => {
+      nameUrlEmojiMap[emoji.name.toLowerCase()] = emoji.url
+    })
   state.store('animatedEmojiMap', nameUrlEmojiMap)
 }
 

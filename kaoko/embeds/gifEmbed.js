@@ -3,14 +3,14 @@ var Discord = require('discord.js')
 function createGifEmbed (url, messageObj) {
   var authorName = messageObj.member ? messageObj.member.nickname : messageObj.author.username
 
-  return new Discord.RichEmbed({
+  return new Discord.MessageEmbed({
     color: messageObj.member.displayColor,
     image: {
       url: url
     },
     author: {
       name: authorName,
-      icon_url: messageObj.author.avatarURL
+      icon_url: messageObj.author.avatarURL()
     }
   })
 }
