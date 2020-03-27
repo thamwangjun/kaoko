@@ -2516,8 +2516,8 @@
         "inline": false
       },
       {
-        "name": "**<:slashmh:631782119013744661>68 <:impactmh:631783267690872842>68 <:shotmh:631782750558486548>60**",
-        "value": "**<:firemh:563022502012518410>15 <:watermh:563022501995610123>20 <:thundermh:563022502025232385>15 <:icemh:563022501597151243>15 <:dragonmh:563001894184681491>15**",
+        "name": "**<:severmh:693105574887424000>68 <:impactmh:693105614653620324>68 <:shotmh:693105660203761684>60**",
+        "value": "**<:firemh:693105709121798227>15 <:watermh:693105746996625458>20 <:thundermh:693105776545497148>15 <:icemh:693105826327691284>15 <:dragonmh:693105899283415151>15**",
         "inline": false
       }
     ],
@@ -2530,6 +2530,86 @@
     "image": {
       "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulu-Ya-Ku_HZV.png?v=M7",
       "proxyURL": "https://images-ext-1.discordapp.net/external/Q3mEBlxO_j-ytBoCs-MVhJCP1sHNAFi3zUcbu4znDEI/%3Fv%3DM7/https/raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulu-Ya-Ku_HZV.png",
+      "height": 918,
+      "width": 1850
+    }
+  },
+  {
+    "key": "Zorah Magdaros",
+    "title": "__**Zorah Magdaros**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Zorah_Magdaros)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Elder Dragon",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "An elder dragon that rises from the earth like a volcano. Where its's headed, and why, the Research Commission has yet to figure out.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "-",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>95 <:impactmh:693105614653620324>95 <:shotmh:693105660203761684>90**",
+        "value": "**<:firemh:693105709121798227>0 <:watermh:693105746996625458>30 <:thundermh:693105776545497148>15 <:icemh:693105826327691284>25 <:dragonmh:693105899283415151>30**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/monsterhunter/images/1/16/MHW-Zorah_Magdaros_Icon.png/",
+      "proxyURL": "https://images-ext-1.discordapp.net/external/tnsFhvARxJ93NCr__21n13lA8DN14_bazbqnjET6L_M/https/vignette.wikia.nocookie.net/monsterhunter/images/1/16/MHW-Zorah_Magdaros_Icon.png/",
+      "height": 466,
+      "width": 475
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Zorah_Magdaros_HZV.png?v=M7",
+      "proxyURL": "https://images-ext-2.discordapp.net/external/kxj26Igsd5TIWPoQwht5FL7erlLYbQE-LTTFP4qpAqQ/%3Fv%3DM7/https/raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Zorah_Magdaros_HZV.png",
+      "height": 1236,
+      "width": 1850
+    }
+  },
+  {
+    "key": "Tzitzi-Ya-Ku",
+    "title": "__**Tzitzi-Ya-Ku**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Tzitzi-Ya-Ku)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Bird Wyvern",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "int(3/4x)+25",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>68 <:impactmh:693105614653620324>60 <:shotmh:693105660203761684>63**",
+        "value": "**<:firemh:693105709121798227>15 <:watermh:693105746996625458>15 <:thundermh:693105776545497148>20 <:icemh:693105826327691284>20 <:dragonmh:693105899283415151>15**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/01/MHW-Tzitzi-Ya-Ku_Icon.png/",
+      "proxyURL": "https://images-ext-1.discordapp.net/external/0YP85BwRRZzyyuanIgGXAXUOb3q6zCrYdJyu_qIaCvc/https/vignette.wikia.nocookie.net/monsterhunter/images/0/01/MHW-Tzitzi-Ya-Ku_Icon.png/",
+      "height": 460,
+      "width": 511
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tzitzi-Ya-Ku_HZV.png?v=M7",
+      "proxyURL": "https://images-ext-1.discordapp.net/external/7zJxLj62yUpRoSeF7qN6r40kIq342OP01vkw5Mwcilo/%3Fv%3DM7/https/raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tzitzi-Ya-Ku_HZV.png",
       "height": 918,
       "width": 1850
     }
