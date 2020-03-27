@@ -1,11 +1,11 @@
-var stateObj = {}
+var cacheObj = {}
 
 function store (key, value) {
-  stateObj[key] = value
+  cacheObj[key] = value
 }
 
 function get (key) {
-  return stateObj[key]
+  return cacheObj[key]
 }
 
 module.exports = {

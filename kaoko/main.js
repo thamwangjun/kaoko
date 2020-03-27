@@ -2,23 +2,25 @@ require('dotenv').config()
 var Discord = require('discord.js')
 
 var client = new Discord.Client()
-var listenerModule = require('./listenerModule')
-var initializerModule = require('./initializerModule')
+var initializerModule = require('./InitializerModule')
+var cache = require('./cache')
+var imageRespondConfig = require('../kaokoConfigs/imageRespondConfig.json')
 
-var initializerDependencyFactory = require('./dependencyFactories/initializerFactory')
-var initializerModuleDependencies = initializerDependencyFactory.createDependencies()
+var UtilityModule = require('./utilityModule')
+var GifEmbed = require('./embeds/GifEmbed')
 
-var listenerDependencyFactory = require('./dependencyFactories/listenerFactory')
-var listenerModuleDependencies = listenerDependencyFactory.createDependencies()
+var ListenerModule = require('./ListenerModule')
+var listenerModule = new ListenerModule(cache)
+var ImageRespondModule = require('./ListenerModule/imageRespond')
+listenerModule.loadListeners(new ImageRespondModule(GifEmbed.create, UtilityModule.channelSendEmbed, imageRespondConfig, cache))
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`)
-  initializerModule.initializeAll(client, initializerModuleDependencies)
+  initializerModule.initializeAll(client, cache)
 })
 
 client.on('message', msg => {
-  var state = initializerModuleDependencies.aniemojiInitializerDependencies.state
-  listenerModule.allListenersReceive(msg, listenerModuleDependencies, state)
+  listenerModule.receiveAll(msg)
 })
 
 client.login(process.env.DISCORD_BOT_TOKEN)

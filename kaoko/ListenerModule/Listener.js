@@ -1,6 +1,6 @@
 var { struct } = require('superstruct')
 
-var Listener = struct({
+var Listener = struct.interface({
   receive: 'function'
 })
 

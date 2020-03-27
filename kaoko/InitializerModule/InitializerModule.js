@@ -1,6 +1,6 @@
 var { struct } = require('superstruct')
 
-var InitializerModule = struct({
+var InitializerModule = struct.interface({
   initialize: 'function'
 })
 
