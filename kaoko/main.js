@@ -14,7 +14,7 @@ var listenerModule = new ListenerModule(cache)
 var ImageRespondModule = require('./ListenerModule/imageRespond')
 var MhwRespond = require('./ListenerModule/mhwRespond')
 listenerModule.loadListeners(new ImageRespondModule(GifEmbed.create, UtilityModule.channelSendEmbed, imageRespondConfig, cache))
-listenerModule.loadListeners(new MhwRespond(UtilityModule.channelSendEmbed))
+listenerModule.loadListeners(new MhwRespond(UtilityModule.channelSendEmbed, UtilityModule.replyChannel))
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`)
