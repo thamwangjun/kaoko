@@ -29,7 +29,7 @@ function respondData (message) {
       var item = new Discord.MessageEmbed(results[0].item)
       this.channelSendEmbed(message, item)
     } else {
-      this.replyChannel(message, `${monsterName}, There isn't such a monster bruh...`)
+      this.replyChannel(message, `${monsterName}, There isn't such a monster bruh...<:denzel:628097559801495573>`)
     }
   }
 }
