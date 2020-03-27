@@ -4,6 +4,11 @@
 
 Resident Bot of Jun's Cat Colony
 
+# Pre-requisites
+
+* Node 12.16.1 LTS
+* npm
+
 ## Install
 
 ```sh
