@@ -4,7 +4,7 @@ var Discord = require('discord.js')
 
 var options = {
   shouldSort: true,
-  threshold: 0.3,
+  threshold: 0.4,
   location: 0,
   distance: 20,
   minMatchCharLength: 1,
@@ -22,7 +22,7 @@ function MHWRespond (channelSendEmbed, replyChannel) {
 }
 
 function respondData (message) {
-  if (message.content.match(/-mon .+/)) {
+  if (message.content.match(/-mon .+/) && message.author.id !== message.client.user.id) {
     var monsterName = message.content.slice(5)
     var results = this.fuse.search(monsterName)
     if (results.length > 0) {
