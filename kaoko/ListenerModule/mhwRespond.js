@@ -4,7 +4,7 @@ var Discord = require('discord.js')
 
 var options = {
   shouldSort: true,
-  threshold: 0.4,
+  threshold: 0.5,
   location: 0,
   distance: 20,
   minMatchCharLength: 1,

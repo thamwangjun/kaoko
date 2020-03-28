@@ -15,6 +15,14 @@ test('mhwRespond-jagras', t => {
         t.truthy(messageOptions)
         t.is(messageOptions.title, '__**Great Jagras**__')
       }
+    },
+    author: {
+      id: '9999'
+    },
+    client: {
+      user: {
+        id: '1111'
+      }
     }
   }
 
@@ -32,7 +40,15 @@ test.skip('mhwRespond-ruan', t => {
     channel: {
       send: function (messageString, messageOptions) {
         t.falsy(messageOptions)
-        t.is(messageString, 'Ruan, There\'s no such monster bruh...')
+        t.is(messageString, 'Ruan, There\'s no such monster bruh...<:denzel:628097559801495573>')
+      }
+    },
+    author: {
+      id: '9999'
+    },
+    client: {
+      user: {
+        id: '1111'
       }
     }
   }
@@ -40,7 +56,7 @@ test.skip('mhwRespond-ruan', t => {
   respondInstance.receive(mockMessageObj)
 })
 
-test('mhwRespond-poogie', t => {
+test.skip('mhwRespond-poogie', t => {
   var testDeps = createListenerDependencies()
   var moduleInstance = new testDeps.ListenerModule(testDeps.cache)
   var respondInstance = new MhwRespond(testDeps.UtilityModule.channelSendEmbed, testDeps.UtilityModule.replyChannel)
@@ -51,7 +67,15 @@ test('mhwRespond-poogie', t => {
     channel: {
       send: function (messageString, messageOptions) {
         t.falsy(messageOptions)
-        t.is(messageString, 'poogie, There isn\'t such a monster bruh...')
+        t.is(messageString, 'poogie, There isn\'t such a monster bruh...<:denzel:628097559801495573>')
+      }
+    },
+    author: {
+      id: '9999'
+    },
+    client: {
+      user: {
+        id: '1111'
       }
     }
   }
