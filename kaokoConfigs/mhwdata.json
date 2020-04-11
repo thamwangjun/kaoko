@@ -2613,5 +2613,81 @@
       "height": 918,
       "width": 1850
     }
+  },
+  {
+    "key": "Raging Brachydios",
+    "title": "__**Raging Brachydios**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Raging_Brachydios)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Brute Wyvern",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "A Brachydios variant that is much larger than the normal species. The slime on its body will activate over time and detonate.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "int(3/4x)+25",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>75 <:impactmh:693105614653620324>75 <:shotmh:693105660203761684>55**",
+        "value": "**<:firemh:693105709121798227>0 <:watermh:693105746996625458>20 <:thundermh:693105776545497148>10 <:icemh:693105826327691284>25 <:dragonmh:693105899283415151>10**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/attachments/584679177811394572/697648838680510545/MHWI-Raging_Brachydios_Icon_1.png",
+      "height": 512,
+      "width": 512
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Raging_Brachydios_HZV.png?v=M7",
+      "height": 996,
+      "width": 1850
+    }
+  },
+  {
+    "key": "Furious Rajang",
+    "title": "__**Furious Rajang**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Furious_Rajang)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Fanged Beast",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "A Rajang variant covered in golden fur. Utilizes severe ranged and wall-based attacks. It enters a glowing golden state when enraged.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "int(3/4x)+25",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>60 <:impactmh:693105614653620324>62 <:shotmh:693105660203761684>50**",
+        "value": "**<:firemh:693105709121798227>0 <:watermh:693105746996625458>5 <:thundermh:693105776545497148>0 <:icemh:693105826327691284>20 <:dragonmh:693105899283415151>0**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/attachments/584679177811394572/697648176923934731/MHWI-Furious_Rajang_Icon_1.png",
+      "height": 459,
+      "width": 482
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Furious_Rajang_HZV.png?v=M7",
+      "height": 996,
+      "width": 1850
+    }
   }
 ]
