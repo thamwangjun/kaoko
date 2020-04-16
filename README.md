@@ -15,7 +15,7 @@ Resident Bot of Jun's Cat Colony
 npm install
 ```
 
-### `.env`
+## `.env`
 
 Create a `.env` file in kaoko root folder.
 
@@ -26,10 +26,26 @@ DISCORD_BOT_TOKEN=<DISCORD_BOT_TOKEN_HERE>
 BOT_SERVER_ID=<DISCORD_GUID_ID>
 ```
 
+## `config.json`
+
+`./kaokoConfigs/config.json`
+```
+{
+    "modules": {
+      "animoji": true,
+      "imageRespond": true,
+      "mhwRespond": true,
+      "emoteInfo": true
+    }
+}
+```
+
+You can decide which features to enable by editing `config.json`.
+
 ## Run
 
 ```sh
-npm run startBot
+npm run start
 ```
 
 ## License
