@@ -9,7 +9,8 @@
     "fix": "eslint --fix kaoko/** test/**",
     "test": "ava",
     "watch": "ava --watch",
-    "coverage": "nyc ava"
+    "coverage": "nyc ava",
+    "debug": "node --nolazy --inspect-brk=9229 kaoko/main.js"
   },
   "repository": {
     "type": "git",
