@@ -1,8 +1,10 @@
 var Initializer = require('./InitializerModule')
 
-var initializersList = [
-  require('./aniemoji')
-]
+var initializersList = []
+
+function loadInitializers (...initializers) {
+  this.initializersList = this.initializersList.concat(initializers)
+}
 
 function initializeAll (client, cache) {
   for (let item of this.initializersList) {
@@ -11,9 +13,10 @@ function initializeAll (client, cache) {
   }
 }
 
-var initializerModules = {
+var initializerModule = {
   initializersList: initializersList,
-  initializeAll: initializeAll
+  initializeAll: initializeAll,
+  loadInitializers: loadInitializers
 }
 
-module.exports = initializerModules
+module.exports = initializerModule

@@ -16,7 +16,6 @@ var options = {
 function MHWRespond (channelSendEmbed, replyChannel) {
   this.receive = respondData
   this.fuse = new Fuse(mhwData, options)
-  this.receive = respondData
   this.channelSendEmbed = channelSendEmbed
   this.replyChannel = replyChannel
 }

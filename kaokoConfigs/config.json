@@ -1,3 +1,8 @@
 {
-    
+    "modules": {
+      "animoji": true,
+      "imageRespond": true,
+      "mhwRespond": true,
+      "emoteInfo": true
+    }
 }
