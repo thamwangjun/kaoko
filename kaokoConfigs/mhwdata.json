@@ -2276,8 +2276,8 @@
         "inline": false
       },
       {
-        "name": "**<:severmh:693105574887424000>80 <:impactmh:693105614653620324>85 <:shotmh:693105660203761684>45**",
-        "value": "**<:firemh:693105709121798227>25 <:watermh:693105746996625458>30 <:thundermh:693105776545497148>50 <:icemh:693105826327691284>50 <:dragonmh:693105899283415151>35**",
+        "name": "**<:severmh:693105574887424000>90 <:impactmh:693105614653620324>95 <:shotmh:693105660203761684>45**",
+        "value": "**<:firemh:693105709121798227>10 <:watermh:693105746996625458>15 <:thundermh:693105776545497148>20 <:icemh:693105826327691284>20 <:dragonmh:693105899283415151>15**",
         "inline": false
       }
     ],
@@ -2288,8 +2288,7 @@
       "width": 506
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulve_Taroth_HZV.png?v=M3",
-      "proxyURL": "https://images-ext-2.discordapp.net/external/3R4EBYDIVxaKtswILvNGWH8mJmKf_VZsMQvJn9c-OT4/%3Fv%3DM3/https/raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulve_Taroth_HZV.png",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulve_Taroth_HZV.png",
       "height": 1396,
       "width": 1850
     }
