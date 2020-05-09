@@ -21,7 +21,7 @@ function MHWRespond (channelSendEmbed, replyChannel) {
 }
 
 function respondData (message) {
-  if (message.content.match(/-mon .+/) && message.author.id !== message.client.user.id) {
+  if (isCommandKeyword(message) && message.author.id !== message.client.user.id) {
     var monsterName = message.content.slice(5)
     var results = this.fuse.search(monsterName)
     if (results.length > 0) {
@@ -31,6 +31,10 @@ function respondData (message) {
       this.replyChannel(message, `${monsterName}, There isn't such a monster bruh...<:denzel:628097559801495573>`)
     }
   }
+}
+
+function isCommandKeyword (message) {
+  return message.content.match(/-mon .+/) || message.content.match(/\.m .+/)
 }
 
 module.exports = MHWRespond
