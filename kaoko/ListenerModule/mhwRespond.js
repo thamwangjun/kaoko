@@ -22,7 +22,7 @@ function MHWRespond (channelSendEmbed, replyChannel) {
 
 function respondData (message) {
   if (isCommandKeyword(message) && message.author.id !== message.client.user.id) {
-    var monsterName = message.content.slice(5)
+    var monsterName = message.content.slice(3)
     var results = this.fuse.search(monsterName)
     if (results.length > 0) {
       var item = new Discord.MessageEmbed(results[0].item)
@@ -34,7 +34,7 @@ function respondData (message) {
 }
 
 function isCommandKeyword (message) {
-  return message.content.match(/-mon .+/) || message.content.match(/\.m .+/)
+  return message.content.match(/\.m .+/)
 }
 
 module.exports = MHWRespond
