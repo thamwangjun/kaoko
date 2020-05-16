@@ -1,7 +1,7 @@
 var Discord = require('discord.js')
 
 function create (url, messageObj) {
-  var authorName = messageObj.member.nickname
+  var authorName = messageObj.member.nickname || messageObj.author.username
 
   return new Discord.MessageEmbed({
     color: messageObj.member.displayColor,
