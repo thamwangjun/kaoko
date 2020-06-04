@@ -16,6 +16,9 @@ var ModuleLoader = require('./moduleLoader')
 
 ModuleLoader.loadModules(listenerModule, initializerModule, GifEmbed, UtilityModule, cache, EmoteInfoEmbed)
 
+var Instagram = require('./ListenerModule/instagram')
+listenerModule.loadListeners(new Instagram(UtilityModule.isMentioningBot))
+
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`)
   initializerModule.initializeAll(client, cache)
