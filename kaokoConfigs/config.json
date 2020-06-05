@@ -3,6 +3,7 @@
       "animoji": true,
       "imageRespond": true,
       "mhwRespond": true,
-      "emoteInfo": true
+      "emoteInfo": true,
+      "instagramReply": true
     }
 }

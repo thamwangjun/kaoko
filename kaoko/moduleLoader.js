@@ -21,6 +21,11 @@ function loadModules (listenerModule, initializerModule, GifEmbed, UtilityModule
     var EmoteInfo = require('./ListenerModule/emoteInfo')
     listenerModule.loadListeners(new EmoteInfo(UtilityModule.channelSendEmbed, UtilityModule.isMentioningBot, UtilityModule.replyChannel, EmoteInfoEmbed))
   }
+
+  if(moduleConfig.instagramReply) {
+    var Instagram = require('./ListenerModule/instagram')
+    listenerModule.loadListeners(new Instagram(UtilityModule.isMentioningBot))
+  }
 }
 
 exports.loadModules = loadModules
