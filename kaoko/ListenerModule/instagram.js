@@ -17,7 +17,6 @@ function receive (message) {
     pythonRun('kaoko/py/getInstagramMedia.py', options)
       .then((mediaUrl) => {
         message.reply(mediaUrl[0])
-        message.delete()
       })
   }
 }
