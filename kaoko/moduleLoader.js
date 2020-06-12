@@ -24,7 +24,7 @@ function loadModules (listenerModule, initializerModule, GifEmbed, UtilityModule
 
   if(moduleConfig.instagramReply) {
     var Instagram = require('./ListenerModule/instagram')
-    listenerModule.loadListeners(new Instagram(UtilityModule.isMentioningBot))
+    listenerModule.loadListeners(new Instagram(UtilityModule.replyChannel))
   }
 }
 
