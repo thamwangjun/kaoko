@@ -1,10 +1,10 @@
 
 function channelSendEmbed (messageObj, messageOptions) {
-  replyChannel(messageObj, '', messageOptions)
+  return replyChannel(messageObj, '', messageOptions)
 }
 
 function replyChannel (messageObj, messageString, messageOptions) {
-  messageObj.channel.send(messageString, messageOptions)
+  return messageObj.channel.send(messageString, messageOptions)
 }
 
 function isMentioningBot (message) {

@@ -30,6 +30,11 @@ function receive (message) {
             name: crypto.createHash('md5').update(response.url).digest('hex') + '.mp4'
           }
           this.replyChannel(message, '', {files: [fileOptions]})
+            .catch((err) => {
+              if(err.code && err.code === 40005) {
+                message.reply('Sorry, your instagram video is too large for me!\nDiscord does not allow bigger than 8 MB videos!\n<:sadcatflex:597243875274391552>')
+              }
+            })
         } else {
           let fileOptions = {
             attachment: response.body,
