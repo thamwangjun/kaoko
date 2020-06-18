@@ -46,7 +46,7 @@ function getpythonOptions (url) {
     mode: 'text',
     pythonPath: '/home/linuxbrew/.linuxbrew/bin/python3.7',
     pythonOptions: ['-u'],
-    args: [Buffer.from(url).toString('base64')]
+    args: [url]
   }
 }
 
