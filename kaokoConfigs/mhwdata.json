@@ -2559,5 +2559,43 @@
       "height": 996,
       "width": 1850
     }
+  },
+  {
+    "key": "Alatreon",
+    "title": "__**Alatreon**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Alatreon)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Elder Dragon",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "Known as a symbol of destruction, people fear even uttering it’s name. It’s rumoured to control all of the elements, but most, if not all, records of its existence have been burned.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "int(3/4x)+25",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>85 <:impactmh:693105614653620324>85 <:shotmh:693105660203761684>45**",
+        "value": "**<:firemh:693105709121798227>22 <:watermh:693105746996625458>16 <:thundermh:693105776545497148>16 <:icemh:693105826327691284>22 <:dragonmh:693105899283415151>20**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/attachments/584679177811394572/731155661844643871/MHWI-Alatreon_Icon.png",
+      "height": 459,
+      "width": 482
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Alatreon_HZV.png",
+      "height": 996,
+      "width": 1850
+    }
   }
 ]
