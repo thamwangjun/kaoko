@@ -9,7 +9,8 @@ var options = {
   distance: 20,
   minMatchCharLength: 1,
   keys: [
-    'key'
+    'key',
+    'alias'
   ]
 }
 
@@ -34,7 +35,7 @@ function respondData (message) {
 }
 
 function isCommandKeyword (message) {
-  return message.content.match(/\.m .+/)
+  return message.content.match(/\.m .+/) || message.content.match(/-m .+/)
 }
 
 module.exports = MHWRespond
