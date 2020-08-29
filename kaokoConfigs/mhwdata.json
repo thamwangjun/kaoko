@@ -32,7 +32,7 @@
       "width": 500
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Shrieking_Legiana_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Shrieking_Legiana_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -70,7 +70,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Brachydios_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Brachydios_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -108,7 +108,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Namielle_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Namielle_HZV.png",
       "height": 1356,
       "width": 1850
     }
@@ -146,7 +146,7 @@
       "width": 501
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Velkhana_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Velkhana_HZV.png",
       "height": 1204,
       "width": 1850
     }
@@ -184,7 +184,7 @@
       "width": 475
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Silver_Rathalos_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Silver_Rathalos_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -222,7 +222,7 @@
       "width": 0
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Zinogre_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Zinogre_HZV.png",
       "height": 0,
       "width": 0
     }
@@ -260,13 +260,14 @@
       "width": 520
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Ruiner_Nergigante_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Ruiner_Nergigante_HZV.png",
       "height": 1484,
       "width": 1850
     }
   },
   {
     "key": "Savage Deviljho",
+    "alias": ["spicy pickle"],
     "title": "__**Savage Deviljho**__",
     "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Savage_Deviljho)**",
     "url": "http://bit.ly/MHWI-HZV_Status_Data",
@@ -298,7 +299,7 @@
       "width": 539
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Savage_Deviljho_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Savage_Deviljho_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -336,7 +337,7 @@
       "width": 537
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Nargacuga_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Nargacuga_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -374,7 +375,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Banbaro_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Banbaro_HZV.png",
       "height": 1076,
       "width": 1850
     }
@@ -412,7 +413,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Nightshade_Paolumu_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Nightshade_Paolumu_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -450,7 +451,7 @@
       "width": 284
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Safi'jiiva_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Safi'jiiva_HZV.png",
       "height": 2048,
       "width": 1850
     }
@@ -488,7 +489,7 @@
       "width": 505
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kirin_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kirin_HZV.png",
       "height": 918,
       "width": 1850
     }
@@ -526,7 +527,7 @@
       "width": 482
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Rajang_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Rajang_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -564,7 +565,7 @@
       "width": 470
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Diablos_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Diablos_HZV.png",
       "height": 1076,
       "width": 1850
     }
@@ -602,7 +603,7 @@
       "width": 511
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Great_Girros_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Great_Girros_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -640,7 +641,7 @@
       "width": 520
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Blackveil_Vaal_Hazak_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Blackveil_Vaal_Hazak_HZV.png",
       "height": 1356,
       "width": 1850
     }
@@ -678,7 +679,7 @@
       "width": 498
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Teostra_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Teostra_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -731,7 +732,7 @@
       "width": 475
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Rathalos_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Rathalos_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -769,7 +770,7 @@
       "width": 475
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Azure_Rathalos_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Azure_Rathalos_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -807,7 +808,7 @@
       "width": 464
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Gold_Rathian_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Gold_Rathian_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -845,7 +846,7 @@
       "width": 473
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Pukei-Pukei_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Pukei-Pukei_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -883,7 +884,7 @@
       "width": 503
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Odogaron_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Odogaron_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -921,13 +922,14 @@
       "width": 496
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Lunastra_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Lunastra_HZV.png",
       "height": 1036,
       "width": 1850
     }
   },
   {
     "key": "Yian Garuga",
+    "alias": ["garuga"],
     "title": "__**Yian Garuga**__",
     "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Yian_Garuga)\n[•Quest Stats](https://docs.google.com/document/d/1s4q0HzWfDjoJYA_ipYaPBvvy5ZkIzm2KdeIUhpiZTII/edit)**",
     "url": "https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit?usp=sharing",
@@ -959,7 +961,7 @@
       "width": 693
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Yian_Garuga_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Yian_Garuga_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -997,7 +999,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Shara_Ishvalda_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Shara_Ishvalda_HZV.png",
       "height": 1316,
       "width": 1850
     }
@@ -1035,7 +1037,7 @@
       "width": 505
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Uragaan_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Uragaan_HZV.png",
       "height": 1196,
       "width": 1850
     }
@@ -1073,7 +1075,7 @@
       "width": 502
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kushala_Daora_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kushala_Daora_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -1111,7 +1113,7 @@
       "width": 464
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Rathian_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Rathian_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -1149,7 +1151,7 @@
       "width": 494
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Xeno'jiiva_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Xeno'jiiva_HZV.png",
       "height": 1555,
       "width": 1850
     }
@@ -1187,7 +1189,7 @@
       "width": 506
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Acidic_Glavenus_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Acidic_Glavenus_HZV.png",
       "height": 1156,
       "width": 1850
     }
@@ -1225,7 +1227,7 @@
       "width": 493
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Brute_Tigrex_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Brute_Tigrex_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -1263,7 +1265,7 @@
       "width": 503
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Ebony_Odogaron_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Ebony_Odogaron_HZV.png",
       "height": 1196,
       "width": 1850
     }
@@ -1301,7 +1303,7 @@
       "width": 501
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Glavenus_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Glavenus_HZV.png",
       "height": 1156,
       "width": 1850
     }
@@ -1339,7 +1341,7 @@
       "width": 470
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Black_Diablos_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Black_Diablos_HZV.png",
       "height": 1076,
       "width": 1850
     }
@@ -1377,7 +1379,7 @@
       "width": 502
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Lavasioth_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Lavasioth_HZV.png",
       "height": 1316,
       "width": 1850
     }
@@ -1415,7 +1417,7 @@
       "width": 487
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Stygian_Zinogre_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Stygian_Zinogre_HZV.png",
       "height": 1276,
       "width": 1850
     }
@@ -1453,7 +1455,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Barioth_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Barioth_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -1491,7 +1493,7 @@
       "width": 500
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Legiana_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Legiana_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -1529,7 +1531,7 @@
       "width": 463
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Viper_Tobi-Kadachi_HZV.png?v=M6",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Viper_Tobi-Kadachi_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -1567,7 +1569,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Behemoth_HZV.png?v=M5",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Behemoth_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -1605,7 +1607,7 @@
       "width": 977
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Seething_Bazelgeuse_HZV.png?v=M5",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Seething_Bazelgeuse_HZV.png",
       "height": 954,
       "width": 1850
     }
@@ -1643,7 +1645,7 @@
       "width": 475
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Bazelgeuse_HZV.png?v=M5",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Bazelgeuse_HZV.png",
       "height": 954,
       "width": 1850
     }
@@ -1681,7 +1683,7 @@
       "width": 479
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Fulgur_Anjanath_HZV.png?v=M5",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Fulgur_Anjanath_HZV.png",
       "height": 1356,
       "width": 1850
     }
@@ -1719,7 +1721,7 @@
       "width": 493
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tigrex_HZV.png?v=M5",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tigrex_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -1757,7 +1759,7 @@
       "width": 467
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tobi-Kadachi_HZV.png?v=M5",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tobi-Kadachi_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -1795,7 +1797,7 @@
       "width": 473
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Beotodus_HZV.png?v=M4",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Beotodus_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -1833,7 +1835,7 @@
       "width": 456
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Great_Jagras_HZV.png?v=M4",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Great_Jagras_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -1871,7 +1873,7 @@
       "width": 479
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Jyuratodus_HZV.png?v=M4",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Jyuratodus_HZV.png",
       "height": 1156,
       "width": 1850
     }
@@ -1909,7 +1911,7 @@
       "width": 552
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Ancient_Leshen_HZV.png?v=M4",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Ancient_Leshen_HZV.png",
       "height": 876,
       "width": 1850
     }
@@ -1947,7 +1949,7 @@
       "width": 506
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Nergigante_HZV.png?v=M4",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Nergigante_HZV.png",
       "height": 1436,
       "width": 1850
     }
@@ -1985,13 +1987,14 @@
       "width": 464
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Pink_Rathian_HZV.png?v=M4",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Pink_Rathian_HZV.png",
       "height": 1036,
       "width": 1850
     }
   },
   {
     "key": "Deviljho",
+    "alias": ["pickle"],
     "title": "__**Deviljho**__",
     "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Deviljho)\n[•Quest Stats](https://docs.google.com/document/d/1s4q0HzWfDjoJYA_ipYaPBvvy5ZkIzm2KdeIUhpiZTII/edit)**",
     "url": "https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit?usp=sharing",
@@ -2023,7 +2026,7 @@
       "width": 539
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Deviljho_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Deviljho_HZV.png",
       "height": 1196,
       "width": 1850
     }
@@ -2061,7 +2064,7 @@
       "width": 473
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Coral_Pukei-Pukei_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Coral_Pukei-Pukei_HZV.png",
       "height": 918,
       "width": 1850
     }
@@ -2099,7 +2102,7 @@
       "width": 476
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Anjanath_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Anjanath_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -2137,7 +2140,7 @@
       "width": 693
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Scarred_Yian_Garuga_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Scarred_Yian_Garuga_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -2213,7 +2216,7 @@
       "width": 479
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Barroth_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Barroth_HZV.png",
       "height": 1116,
       "width": 1850
     }
@@ -2251,7 +2254,7 @@
       "width": 503
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Dodogama_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Dodogama_HZV.png",
       "height": 1156,
       "width": 1850
     }
@@ -2289,7 +2292,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Paolumu_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Paolumu_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -2327,7 +2330,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Vaal_Hazak_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Vaal_Hazak_HZV.png",
       "height": 1276,
       "width": 1850
     }
@@ -2365,7 +2368,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Radobaan_HZV.png?v=M3",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Radobaan_HZV.png",
       "height": 1036,
       "width": 1850
     }
@@ -2403,7 +2406,7 @@
       "width": 434
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulu-Ya-Ku_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Kulu-Ya-Ku_HZV.png",
       "height": 918,
       "width": 1850
     }
@@ -2441,7 +2444,7 @@
       "width": 475
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Zorah_Magdaros_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Zorah_Magdaros_HZV.png",
       "height": 1236,
       "width": 1850
     }
@@ -2479,7 +2482,7 @@
       "width": 511
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tzitzi-Ya-Ku_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Tzitzi-Ya-Ku_HZV.png",
       "height": 918,
       "width": 1850
     }
@@ -2517,7 +2520,7 @@
       "width": 512
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Raging_Brachydios_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Raging_Brachydios_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -2555,7 +2558,7 @@
       "width": 482
     },
     "image": {
-      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Furious_Rajang_HZV.png?v=M7",
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Furious_Rajang_HZV.png",
       "height": 996,
       "width": 1850
     }
@@ -2595,6 +2598,44 @@
     "image": {
       "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Alatreon_HZV.png",
       "height": 996,
+      "width": 1850
+    }
+  },
+  {
+    "key": "Frostfang Barioth",
+    "title": "__**Frostfang Barioth**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Frostfang_Barioth)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Flying Wyvern",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. Be careful, as this attack can freeze you as well.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "int(3/4HZV)+25",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>65 <:impactmh:693105614653620324>70 <:shotmh:693105660203761684>55**",
+        "value": "**<:firemh:693105709121798227>35 <:watermh:693105746996625458>10 <:thundermh:693105776545497148>25 <:icemh:693105826327691284>0 <:dragonmh:693105899283415151>15**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/0c/MHWI-Frostfang_Barioth_Icon.png",
+      "height": 502,
+      "width": 512
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Frostfang_Barioth_HZV.png",
+      "height": 1116,
       "width": 1850
     }
   }
