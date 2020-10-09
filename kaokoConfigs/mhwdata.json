@@ -2638,5 +2638,44 @@
       "height": 1116,
       "width": 1850
     }
+  },
+  {
+    "key": "Fatalis",
+    "alias": ["fatty"],
+    "title": "__**Fatalis**__",
+    "description": "**[•MH Wiki](https://monsterhunter.fandom.com/wiki/Fatalis)**",
+    "url": "http://bit.ly/MHWI-HZV_Status_Data",
+    "fields": [
+      {
+        "name": "Classification :",
+        "value": "Elder Dragon",
+        "inline": false
+      },
+      {
+        "name": "Characteristics :",
+        "value": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost.",
+        "inline": false
+      },
+      {
+        "name": "Tenderize Formula :",
+        "value": "int(3/4x)+25",
+        "inline": false
+      },
+      {
+        "name": "**<:severmh:693105574887424000>75 <:impactmh:693105614653620324>75 <:shotmh:693105660203761684>48**",
+        "value": "**<:firemh:693105709121798227>17 <:watermh:693105746996625458>5 <:thundermh:693105776545497148>5 <:icemh:693105826327691284>12 <:dragonmh:693105899283415151>25**",
+        "inline": false
+      }
+    ],
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/09/MHWI-Fatalis_Icon.png",
+      "height": 459,
+      "width": 482
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/RoboMechE/MHW-Database/gh-pages/monster/Fatalis_HZV.png",
+      "height": 996,
+      "width": 1850
+    }
   }
 ]
